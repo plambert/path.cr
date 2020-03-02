@@ -1,0 +1,13 @@
+name: path
+version: 0.1.0
+
+authors:
+  - Paul M. Lambert <plambert@plambert.net>
+
+targets:
+  path:
+    main: src/path.cr
+
+crystal: 0.33.0
+
+license: MIT
